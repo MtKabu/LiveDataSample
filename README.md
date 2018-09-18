@@ -1,1 +1,3 @@
 # LiveDataSample
+Android Architecture ComponentsのLiveDataの超簡易サンプル
+LiveDataに関する理解の導入に使用
